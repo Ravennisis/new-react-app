@@ -9,7 +9,9 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Lyon" />
         <footer>
-          This project was coded by Ravenn Annibal-Arnulf and is {" "}
+          Coded by <a href="https://www.linkedin.com/in/ravenn-annibal-91811b201/" target="_blank" rel="noreferrer">
+          Ravenn Annibal-Arnulf
+        </a> and is {" "}
           <a href="https://github.com/Ravennisis/new-react-app" target="_blank" rel="noreferrer">
             open-sourced on GitHub
         </a>
